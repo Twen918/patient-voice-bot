@@ -1,0 +1,46 @@
+{
+  "scenario": "schedule_basic",
+  "call_sid": "CA5631011c2c8f955e578f227f9a3edb5c",
+  "turns": [
+    {
+      "speaker": "AGENT",
+      "text": "Hello?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Hello! Thank you for calling. How can I help you today?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Hello"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Hi there! Thanks for getting in touch. What can I do for you today?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Hi, sure, go ahead and let me know what you"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Done."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How are you?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I'm doing well, thank you for asking. How can I assist you with your appointment today?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Nothing much. Thank you"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Of course. Whenever you're ready, feel free to let me know what you'd like to do."
+    }
+  ]
+}

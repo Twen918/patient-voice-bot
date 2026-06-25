@@ -1,0 +1,142 @@
+{
+  "scenario": "insurance_question",
+  "call_sid": "CAfd27bf330f47565596dd18d16f38a994",
+  "turns": [
+    {
+      "speaker": "PATIENT",
+      "text": "Hi there. I'm calling to check if you accept Aetna PPO insurance and if a new-patient visit would be covered."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thanks, I really"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I can help with that."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Before I check your insurance question, would you like to create a demo patient profile?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, my name is Jordan Miller."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I just need your first and last name."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your patient profile is set up and your date of birth is July 4, 2000 for demo purposes."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How may I help you today?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually, my date of birth is March 14, 1992. I just want to confirm if my Aetna PPO insurance is accepted and if a new-patient visit would be covered."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "to check if your Aetna PPO..."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "All right, that sounds good. Could you let me know if you accept Aetna PPO and if the new-patient visit would be covered under that?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thank you"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "One moment."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Let me check if Aetna PPO is accepted for new patient visits."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Is there any update on that insurance check?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I need a bit more information to check if your Aetna PPO plan is accepted. Could you share your member ID number from your insurance card? Yes. Aetna PPO is accepted here for new patient visits."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Coverage depends on your specific plan, but in general, Aetna PPO plans are accepted."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "If you want to confirm coverage for your exact plan, I can check further if you provide your member ID and the state where your plan was issued."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you like to do that?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I see, thanks for letting me know. I\u2019ll go ahead and provide my member ID. It\u2019s AET12345678, and the plan was issued in California."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, I'll hold on. Thank you."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks for that information. Let me check if your specific Aetna PPO plan is accepted."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "One moment"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'm checking your Aetna PPO plan now."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "No problem,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "This will just take a moment."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your Aetna PPO plan is accepted here."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "There are several Aetna PPO options, so to match your exact plan,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Could you read the claims mailing address or P.O. box from the back of your insurance card?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "This will help confirm."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "coverage for your new patient visit."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, let me check the card. The claims mailing address is P.O. Box 981106, El Paso, Texas, 79998."
+    }
+  ]
+}

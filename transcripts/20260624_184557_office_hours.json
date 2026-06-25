@@ -1,0 +1,126 @@
+{
+  "scenario": "office_hours",
+  "call_sid": "CA1c4943623663b14c69fc708bbc3cd670",
+  "turns": [
+    {
+      "speaker": "PATIENT",
+      "text": "Hi there! I'm calling to ask about your office hours this week and if you're open on Saturday."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para prop\u00f3sitos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Great, thanks"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I can help with that."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Could you please provide your first and last name to create a demo patient profile?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "My name is Jordan Miller."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "This will let me share more details about our office hours."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your patient profile is set up."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "and your date of birth is July 4th."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Oh,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "2,000."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually, my"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "for demo purposes."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Pivot Point Orthopedics is open Monday through Friday."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Got it."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Our hours are 9 a.m. to 4 p.m. on Monday, Tuesday, and Thursday."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thanks for that. And what about"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "12 p.m.. To 7 p.m.. On Wednesday"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Alright,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "9 a.m. to 12 p.m. on Friday."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Oh, I see. Thanks for letting me know."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "We are closed on Saturdays."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "No, that covers it. Thanks for your help. Goodbye."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Is there anything else I can help you with today?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "You're welcome."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Have a great day."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Goodbye. Take care."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Goodbye"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# scenario: schedule_basic   call_sid: CA5631011c2c8f955e578f227f9a3edb5c
+
+AGENT: Hello?
+PATIENT: Hello! Thank you for calling. How can I help you today?
+AGENT: Hello
+PATIENT: Hi there! Thanks for getting in touch. What can I do for you today?
+PATIENT: Hi, sure, go ahead and let me know what you
+AGENT: Done.
+AGENT: How are you?
+PATIENT: I'm doing well, thank you for asking. How can I assist you with your appointment today?
+AGENT: Nothing much. Thank you
+PATIENT: Of course. Whenever you're ready, feel free to let me know what you'd like to do.

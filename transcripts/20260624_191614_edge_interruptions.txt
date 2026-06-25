@@ -1,0 +1,50 @@
+# scenario: edge_interruptions   call_sid: CAa3df7a35b271dd89a28b4b65b05c4688
+
+PATIENT: Hi there! I'm calling to schedule an appointment, but I might need to switch the day. Could you help me find a good time?
+AGENT: Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Español, oprima el 2.
+AGENT: Thank you
+PATIENT: Of course, I can help with that. Could you let me know what kind of appointment you’re looking to schedule, and do you have any preferred days or times in mind?
+AGENT: Before we get started, would you like to create a demo patient profile?
+PATIENT: Sure, my name is Jordan Miller.
+AGENT: I just need your first and last name.
+AGENT: Your patient profile is set up.
+PATIENT: Actually,
+AGENT: And your date of birth is July 4, 2000 for demo purposes.
+AGENT: How may I help you today?
+PATIENT: I’m trying to book an appointment, maybe for Wednesday—wait, no, actually, maybe Thursday would work better. Let’s find a good time.
+PATIENT: It’s a general check
+AGENT: What type of appointment do you need?
+AGENT: For example.
+AGENT: Is this a routine visit?
+AGENT: A follow-up?
+AGENT: something urgent?
+AGENT: or a procedure.
+PATIENT: It’s more of a routine visit, just a general check-up. But I might need to follow up on something from last time, too.
+PATIENT: I’m open to any available provider. Let’s see what times are open on Thursday.
+AGENT: Do you have a preferred provider or are you open to seeing any available provider?
+PATIENT: Oh,
+AGENT: It looks like you already have a routine visit and general check-up appointment booked.
+PATIENT: You know what,
+AGENT: If you want, I can help you reschedule or cancel that appointment.
+AGENT: Would you like to do that?
+AGENT: or do you need help with something else?
+PATIENT: Actually, let’s reschedule that appointment to Thursday instead—wait, no, hang on, maybe Friday would be better. Could we check Friday’s availability?
+PATIENT: Oh, I see.
+AGENT: Since you already have this type of appointment booked, I can't check new times directly.
+PATIENT: That sounds good,
+AGENT: I can connect you to live support to help reschedule your appointment for Friday.
+PATIENT: Yes, please go ahead and transfer me. Thank you.
+AGENT: Would you like me to transfer you now?
+PATIENT: Oh, wait,
+AGENT: Something's not right.
+PATIENT: No problem,
+AGENT: and having trouble booking your appointment.
+PATIENT: Actually,
+AGENT: Let me document this for our clinic support team so they can follow up with you.
+PATIENT: Sure, I'll hold.
+AGENT: Please hold on a moment.
+AGENT: connecting you to a representative.
+AGENT: Please wait.
+PATIENT: All right, I’ll wait. Thanks.
+PATIENT: Oh, okay. Thanks anyway. Goodbye.
+AGENT: Hello, you've reached the pretty good AI test line. Goodbye.

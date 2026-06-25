@@ -1,0 +1,39 @@
+# scenario: reschedule   call_sid: CA68c71fe4bdd0e8f7848e2ccc7d799cb0
+
+PATIENT: Hi, I'm calling to reschedule my appointment that I have this Thursday to sometime next week.
+AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+AGENT: I can help with that.
+PATIENT: Oh, no,
+AGENT: Would you like to create a demo patient profile first?
+PATIENT: Sure, my name is Jordan Miller.
+AGENT: I just need your first and last name to get started.
+AGENT: Your patient profile is set up and your date of birth is July 4, 2000.
+AGENT: How can I help you today?
+PATIENT: Actually, my date of birth is March 14, 1992. I need to move my appointment from this Thursday to sometime next week.
+AGENT: You have an appointment scheduled for Tuesday, June 30th.
+AGENT: at 9 a.m.
+AGENT: with Dr. Zbigniew Bukowski at Nashville 220 Athens Way.
+AGENT: Is this the appointment you want to move to next week?
+PATIENT: Actually, my appointment is for this Thursday, not Tuesday. I'd like to move that Thursday appointment to next week. Could you help me find a new time?
+AGENT: I only see an appointment for Tuesday, June 30th at 9 a.m.
+AGENT: Are you asking to move this appointment?
+AGENT: Or do you have another one scheduled for this Thursday?
+PATIENT: I’m certain I have one set for Thursday. Could you double-check the schedule for any appointment this Thursday under my name, Jordan Miller?
+AGENT: I checked your upcoming appointments and only see one scheduled for Tuesday.
+AGENT: June 30th at 9 a.m.
+AGENT: There are no other appointments listed for this Thursday under your name.
+PATIENT: Yes, let's go ahead and move that June 30th appointment to next week. What days and times are available?
+AGENT: Would you like to move the June 30th appointment to next week instead?
+AGENT: Let me check for available appointments next week to move your June 30th visit.
+PATIENT: Sure, take your
+AGENT: One moment.
+AGENT: I found openings next week on Monday, July 6th.
+AGENT: at 10 a.m., 2 p.m., and 3.30 p.m.
+AGENT: Would any of these times work for you, or would you like to look for a different day or time?
+PATIENT: I think the 10 a.m. slot on Monday, July 6th would work well. Let’s go with that.
+AGENT: Before I reschedule...
+PATIENT: I just have a
+AGENT: Can you tell me the reason you need to move your appointment?
+AGENT: For example...
+AGENT: Is it a schedule conflict, illness, or something else?
+PATIENT: It's a schedule conflict. I won't be available this Thursday, so I need to push it to next week. That's all.

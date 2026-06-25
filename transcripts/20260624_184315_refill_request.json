@@ -1,0 +1,202 @@
+{
+  "scenario": "refill_request",
+  "call_sid": "CAa32204ca4d692db0da20567b8b8ff4bc",
+  "turns": [
+    {
+      "speaker": "PATIENT",
+      "text": "Hi there, I need a refill for my blood pressure medication, lisinopril. I'm almost out."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, I\u2019m ready to give you my details if you need them."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thank you for..."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "My name is"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Great"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "to create your demo patient profile."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, it's Jordan Miller."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "May I have your first and last name?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "My date of birth is March 14,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your patient profile has been created."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "and your date of birth is July 4, 2000 for demo purposes."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How may I help you today?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I need a refill for my blood pressure medication, lisinopril. I'm almost out."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I\u2019ve got about two days"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How many days of Lysinopril do you have left?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I\u2019ve got about two days left"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "if you're already out."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Just let me know."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "So, can we get that refill set up as soon as possible?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thank you"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Absolutely."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I've got about"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How many days of licinapril do you have left, or are you already out?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "This helps the team process your refill quickly."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I've got about two days left, so I really need it soon. What\u2019s the next step?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll leave a callback number in case the staff needs to reach you."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually, my"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I have your number as 951."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "636."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "8881"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Is that correct?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Yes, that\u2019s correct. 951-636-8881."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "That's right"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I have your number as 951-636-8881."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I\u2019d like to stick with the same pharmacy as before, Main Street Pharmacy."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Can you please provide the name of the new pharmacy you would like to use for your medication?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Just to confirm, is Main Street Pharmacy the one you want to use?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, it\u2019s the Main Street Pharmacy on 5th and Oak, in Riverside."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Could you share any details to help identify it, like the city, cross streets, or anything else about the location?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "No"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks for that info."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Could you tell me the state?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "It's in California, and the zip"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "or the zip code for Main Street Pharmacy on 5th and Oaken Riverside."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "The zip code is 92501."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "That will help make sure we have a-"
+    }
+  ]
+}

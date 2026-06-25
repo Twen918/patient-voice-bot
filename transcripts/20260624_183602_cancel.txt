@@ -1,0 +1,25 @@
+# scenario: cancel   call_sid: CA5c49fd6296e9ded202282ccc7dc59c54
+
+AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+PATIENT: Hi there, I’m calling to cancel an appointment I have scheduled.
+AGENT: Thank you.
+PATIENT: Of course. Could you please share the date and time of the appointment you want to cancel, so I can assist you further?
+AGENT: I can help with that.
+PATIENT: No,
+AGENT: First, would you like to create a demo patient profile?
+AGENT: I just need your first and last name to get started.
+PATIENT: Sure, my name is Jordan Miller.
+AGENT: Your patient profile is set up and your date of birth is July 4, 2000 for demo purposes.
+AGENT: How may I help you today?
+PATIENT: Actually, my date of birth is March 14, 1992. I’m calling to cancel my upcoming appointment.
+AGENT: You have an appointment with Dr. Zigney-Lukosky on Tuesday, June 30th.
+PATIENT: Yes, that's the one. I'd like to cancel that appointment, please.
+AGENT: Is this the appointment you want to cancel?
+PATIENT: I just don’t need it anymore, that’s all.
+AGENT: Can you share the reason for cancelling your appointment?
+PATIENT: Thank you so much.
+AGENT: Your appointment on June 30th with Dr. Zygmunt Julekowski has been cancelled.
+PATIENT: No, that’s all I needed. Thanks again. Goodbye.
+AGENT: Is there anything else I can help you with today?
+PATIENT: Goodbye! Take care.
+AGENT: Take care.

@@ -1,0 +1,34 @@
+# scenario: refill_request   call_sid: CA1a7819e7526e2877fdba75569515d2ed
+
+PATIENT: Hi, I'm calling because I’m running low on my blood pressure medication, lisinopril, and I need a refill.
+AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+AGENT: Thank you for watching.
+PATIENT: Sure, I’m ready to continue. Could you help me with that refill?
+AGENT: to help with your refill. I'll need to create a devil patient profile for you.
+PATIENT: My name is Jordan Miller.
+AGENT: May I have your first and last name?
+AGENT: Your patient profile is set up.
+AGENT: and your date of birth is July 4th, 2000.
+AGENT: How may I help you today?
+PATIENT: Actually, my date of birth is March 14, 1992. I need a refill for my lisinopril prescription, please.
+PATIENT: I’ve only got
+AGENT: How many days of lisinopril do you have left?
+PATIENT: I’ve got about two days left, so I really need that refill soon.
+AGENT: If you are already out, just let me know.
+AGENT: I have your callback number as 951.
+AGENT: 636.
+PATIENT: Actually, let me confirm my number if you
+AGENT: 8881.
+AGENT: Is that correct?
+PATIENT: Let me double-check. My number is actually different. Would you like me to give it to you now?
+AGENT: Yes, please provide your correct phone number for follow-up.
+PATIENT: Sure, my correct phone number is 951-636-8881.
+AGENT: Could you please provide the name of the pharmacy you want to use for your medication?
+AGENT: if you know the address, city, or any details like cross streets or nearby stores.
+AGENT: That would help too.
+AGENT: If you have their phone or fax number, please share that as well.
+PATIENT: Sure, the pharmacy is Green Valley Pharmacy on Main Street, near the corner with Oak Avenue. I don’t have their phone number on hand, but that’s the one I use.
+AGENT: Could you tell me the city and state where Green Valley Pharmacy is located?
+AGENT: If you know the zip code, that would work too.
+AGENT: this will help make sure we have the right location.
+PATIENT: Sure, it’s in Riverside, California, and the zip code is 92501.

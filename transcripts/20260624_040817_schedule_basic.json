@@ -1,0 +1,274 @@
+{
+  "scenario": "schedule_basic",
+  "call_sid": "CAcf51d3a62da50bce149dfd5d7ac1d8bc",
+  "turns": [
+    {
+      "speaker": "PATIENT",
+      "text": "Hi there, I\u2019d like to book a routine check-up for next week, preferably a weekday morning."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Of course, let's get that set up. Could you please provide your full name and date of birth?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I just need your first and last name to create your demo patient profile."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Could you please share those with me?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, it's Jordan Miller, and my date of birth is March 14, 1992."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks Jordan Miller"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Let me set up your demo patient profile now. One moment."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually, I already have a profile with the practice. I'm just looking to book that routine check-up for next week. Could we go ahead with that?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your patient profile is set up."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "For demo purposes, your date of birth is July 4, 2000."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How may I help you today?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I\u2019d actually like to correct that\u2014my real date of birth is March 14, 1992. And I\u2019d just like to book that routine check-up next week, if possible."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "14th."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks for clarifying your date of birth as March."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "1992."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "You'd like to book a routine checkup next week."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Do you have a preferred day or time of day for your appointment?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Yes, I'd prefer a weekday morning, maybe mid-week\u2014like Wednesday or Thursday."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "One moment."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Let me check for available morning appointments on Wednesday and Thursday next week."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, take your time."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "We have no open cases for you right now. I'll look for available weekday morning appointments next week and get that set up."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "One moment while I check the schedule."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sounds good, I appreciate that."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you prefer Wednesday or Thursday morning if both are available?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I\u2019d prefer Wednesday morning if possible, but I\u2019m flexible if Thursday works better."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thank you,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll look for Wednesday morning first and let you know what's available."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "All right, I'm ready whenever you have an update."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "One moment while I check the schedule."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks for waiting."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'm checking for Wednesday morning openings next week for your routine checkup."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll let you know the soonest available slot."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "as soon as I have it."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "That sounds great, thank you so much."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "You're welcome."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll confirm your Wednesday morning appointment as soon as I have the details."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Perfect, I\u2019ll wait."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks for your patience."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Appreciate it. Take your time, I\u2019ll be here."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll let you know as soon as your Wednesday morning appointment is confirmed."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thank you for your patience."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "That works for me. Thanks again."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll update you as soon as I have your appointment details."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "You got it."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll let you know as soon as your appointment is set."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Great, I\u2019ll be ready whenever you have that confirmation."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Understood. I'll confirm your Wednesday morning appointment as soon as possible."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thank you, I really appreciate your help."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Happy to help!"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll update you as soon as your appointment is confirmed."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sounds good, I\u2019ll wait for the update."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll let you know as soon as your Wednesday morning appointment is confirmed."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thank you, I\u2019m here."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks for staying on the line."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "All right, I\u2019ll be ready."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll update you as soon as your appointment is confirmed."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thank you, I\u2019m looking forward to it."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll let you know as soon as I have your appointment details."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Glad to hear that."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll confirm your appointment as soon as possible."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sounds great. Thanks so much for your help."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "You're welcome."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "No problem, I\u2019ll stay on the line and wait for the confirmation."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll update you as soon as your appointment is confirmed."
+    }
+  ]
+}

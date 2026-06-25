@@ -1,0 +1,218 @@
+{
+  "scenario": "schedule_basic",
+  "call_sid": "CA56635c1d4aeb8f6c2026d8897934c538",
+  "turns": [
+    {
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Hi, I'm calling to book a routine check-up for next week, preferably in the morning on a weekday."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Oh, sure,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you like to create a demo patient profile first?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "My name is Jordan Miller."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I just need your first and last name to get started."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Great, thanks"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your patient profile is set up."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "and your date of birth is July 4, 2000."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How can I help you today?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I'm looking to schedule that routine check-up for next week, ideally in the morning. My birthday is actually March 14, 1992."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "No problem"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks for letting me know"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Perfect"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll update your date of birth to March 14, 1992."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Do you have"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "about your appointment."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "since you already have a routine check-up boat."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I can help you reschedule or cancel it."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you like to do that or do you need something else?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I don't actually have one booked yet. I need to set up a new routine check-up for next week. Are there any morning slots available?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I understand."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "It looks like the system thinks you already have a routine checkup booked."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Could you check"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "so I can't schedule another one right now."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "That sounds good,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll connect you with a team member who can help sort this out and get your appointment set up."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Alright, I'll hold."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Please hold while I transfer you."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Let me check the schedule for morning openings next week."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "One moment."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thank you, I appreciate it."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "You're welcome"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll have those morning options for you shortly."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sounds great. I'm aiming for something early in the week if possible."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "We have openings early next week in the mornings."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Tuesday morning would be great. What times are available?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you prefer Monday or Tuesday?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Let me check the available times for Tuesday morning next week."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, I'll wait."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "One moment."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "No problem,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thanks for your patience"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll have those Tuesday morning times for you."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Take your time, I'll be ready when you have them."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "in just a moment."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Of course,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thank you for waiting"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "That sounds good. I'll be ready to pick one once you have them."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'll let you know as soon as I have the available Tuesday morning slots."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "understood."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Great, I'm ready to hear the"
+    }
+  ]
+}

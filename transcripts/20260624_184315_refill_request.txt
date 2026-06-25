@@ -1,0 +1,51 @@
+# scenario: refill_request   call_sid: CAa32204ca4d692db0da20567b8b8ff4bc
+
+PATIENT: Hi there, I need a refill for my blood pressure medication, lisinopril. I'm almost out.
+AGENT: Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Español, oprima el 2.
+PATIENT: Sure, I’m ready to give you my details if you need them.
+AGENT: Thank you for...
+PATIENT: My name is
+AGENT: Great
+AGENT: to create your demo patient profile.
+PATIENT: Sure, it's Jordan Miller.
+AGENT: May I have your first and last name?
+PATIENT: My date of birth is March 14,
+AGENT: Your patient profile has been created.
+PATIENT: Actually,
+AGENT: and your date of birth is July 4, 2000 for demo purposes.
+AGENT: How may I help you today?
+PATIENT: I need a refill for my blood pressure medication, lisinopril. I'm almost out.
+PATIENT: I’ve got about two days
+AGENT: How many days of Lysinopril do you have left?
+PATIENT: I’ve got about two days left
+AGENT: if you're already out.
+AGENT: Just let me know.
+PATIENT: So, can we get that refill set up as soon as possible?
+PATIENT: Thank you
+AGENT: Absolutely.
+PATIENT: I've got about
+AGENT: How many days of licinapril do you have left, or are you already out?
+AGENT: This helps the team process your refill quickly.
+PATIENT: I've got about two days left, so I really need it soon. What’s the next step?
+AGENT: I'll leave a callback number in case the staff needs to reach you.
+PATIENT: Actually, my
+AGENT: I have your number as 951.
+PATIENT: Actually,
+AGENT: 636.
+AGENT: 8881
+AGENT: Is that correct?
+PATIENT: Yes, that’s correct. 951-636-8881.
+PATIENT: That's right
+AGENT: I have your number as 951-636-8881.
+PATIENT: I’d like to stick with the same pharmacy as before, Main Street Pharmacy.
+AGENT: Can you please provide the name of the new pharmacy you would like to use for your medication?
+AGENT: Just to confirm, is Main Street Pharmacy the one you want to use?
+PATIENT: Sure, it’s the Main Street Pharmacy on 5th and Oak, in Riverside.
+AGENT: Could you share any details to help identify it, like the city, cross streets, or anything else about the location?
+PATIENT: No
+AGENT: Thanks for that info.
+AGENT: Could you tell me the state?
+PATIENT: It's in California, and the zip
+AGENT: or the zip code for Main Street Pharmacy on 5th and Oaken Riverside.
+PATIENT: The zip code is 92501.
+AGENT: That will help make sure we have a-

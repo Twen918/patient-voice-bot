@@ -1,0 +1,41 @@
+# scenario: schedule_basic   call_sid: CAd8f6281456e94ed45d91b8827b32b726
+
+PATIENT: Hi there, I’d like to book a routine check-up for next week, ideally a weekday morning.
+AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+PATIENT: Great, thanks. So,
+AGENT: I can help with that.
+PATIENT: Oh, I already have
+AGENT: Before we get started, would you like to create a DevoPatient profile?
+PATIENT: Sure, my name is Jordan Miller.
+AGENT: I just need your first and last name.
+AGENT: Your patient profile is set up.
+PATIENT: It's March 14
+AGENT: and your date of birth.
+PATIENT: Actually, my date
+AGENT: is July 4th, 2000.
+AGENT: How can I help you today?
+PATIENT: I’m looking to book a routine check-up for next week, preferably in the morning on a weekday.
+AGENT: We have a morning opening for a routine checkup on Monday, June 29th at 1130 with Kelley Noble, MD.
+AGENT: Would you like to book this slot?
+PATIENT: 11:30 on Monday sounds a bit late. Do you have anything a bit earlier, maybe around 9 or 10 a.m.?
+AGENT: Or would you prefer to hear other weekday morning options next week?
+AGENT: The earliest available slot on Monday is 11.30 a.m.
+PATIENT: Alright,
+AGENT: There's nothing earlier that day.
+AGENT: Would you like to hear about morning openings on Tuesday or another day next week?
+PATIENT: Yes, please. Could you let me know if there's anything earlier on Tuesday morning?
+AGENT: Yes
+PATIENT: That sounds perfect. Let
+AGENT: There is a 9 a.m. slot available on Tuesday, June 30th with...
+AGENT: C. Bignew-Lukosky, MD.
+AGENT: Would you like to book this appointment?
+PATIENT: Yes, let's go ahead and book that 9 a.m. slot on Tuesday with Dr. Lukoski. Thanks.
+AGENT: Your routine checkup is booked for Tuesday, June 30th at 9 a.m. with Dr. Zbigniew Lukoski.
+PATIENT: Got it, I’ll bring those along.
+AGENT: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs if you have them.
+PATIENT: No, that’s all. Thanks for your help. Goodbye.
+AGENT: Is there anything else I can help you with today?
+AGENT: You're all set for your appointment.
+AGENT: Have a great day.
+AGENT: Goodbye.
+PATIENT: Goodbye! Take care.

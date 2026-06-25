@@ -1,0 +1,158 @@
+{
+  "scenario": "edge_vague",
+  "call_sid": "CA5aec4615e75732b5c8382aed85e1889f",
+  "turns": [
+    {
+      "speaker": "PATIENT",
+      "text": "Hi there, thanks for taking my call. I'm not feeling great and I don't really know what to do."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para prop\u00f3sitos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I'm here to help."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I appreciate that. I guess"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Can you tell me a bit more?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, it's hard to pin down, but I\u2019ve been feeling off\u2014kind of tired, sometimes dizzy, and just not myself. I\u2019m not sure if I should come in or if this could be something minor."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Yeah, no problem"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thank you for sharing how you're feeling."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, we"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you like to create a demo patient profile so I can help you further?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "My name is Jordan Miller."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I just need your first and last name."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your patient profile is set up and your date of birth is July 4th, 2000."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How can I help you today?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I think scheduling a visit would be good, just to check things out."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you like to schedule a visit to discuss your symptoms or do you have other questions?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "It sounds like a general office visit would be a good fit to check on your symptoms."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Does that sound right to you?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Yeah, that sounds right. Do you have any appointments available soon?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I don\u2019t have"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Do you have a preferred provider?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I\u2019m fine with the first available. Whenever you can fit me in."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "or would you like to see the first available?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "the soonest available appointment."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "is tomorrow, Thursday, June 25th."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "at 3 p.m. with the big new Lukoski MD."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you like to book that time?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Yeah, that works for me. Let\u2019s go ahead and book that appointment."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your appointment is set for Thursday, June 25th."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Thank you, I appreciate it."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "3 p.m."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Is there anything else I can help with?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "No, that\u2019s all I needed. Thanks so much for your help. Goodbye."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "you're all set for your visit."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Take care."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Goodbye, take care."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Namaste."
+    }
+  ]
+}

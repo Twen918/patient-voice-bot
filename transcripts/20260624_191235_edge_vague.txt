@@ -1,0 +1,40 @@
+# scenario: edge_vague   call_sid: CA5aec4615e75732b5c8382aed85e1889f
+
+PATIENT: Hi there, thanks for taking my call. I'm not feeling great and I don't really know what to do.
+AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+AGENT: I'm here to help.
+PATIENT: I appreciate that. I guess
+AGENT: Can you tell me a bit more?
+PATIENT: Sure, it's hard to pin down, but I’ve been feeling off—kind of tired, sometimes dizzy, and just not myself. I’m not sure if I should come in or if this could be something minor.
+PATIENT: Yeah, no problem
+AGENT: Thank you for sharing how you're feeling.
+PATIENT: Sure, we
+AGENT: Would you like to create a demo patient profile so I can help you further?
+PATIENT: My name is Jordan Miller.
+AGENT: I just need your first and last name.
+AGENT: Your patient profile is set up and your date of birth is July 4th, 2000.
+AGENT: How can I help you today?
+PATIENT: I think scheduling a visit would be good, just to check things out.
+AGENT: Would you like to schedule a visit to discuss your symptoms or do you have other questions?
+AGENT: It sounds like a general office visit would be a good fit to check on your symptoms.
+AGENT: Does that sound right to you?
+PATIENT: Yeah, that sounds right. Do you have any appointments available soon?
+PATIENT: I don’t have
+AGENT: Do you have a preferred provider?
+PATIENT: I’m fine with the first available. Whenever you can fit me in.
+AGENT: or would you like to see the first available?
+AGENT: the soonest available appointment.
+AGENT: is tomorrow, Thursday, June 25th.
+AGENT: at 3 p.m. with the big new Lukoski MD.
+AGENT: Would you like to book that time?
+PATIENT: Yeah, that works for me. Let’s go ahead and book that appointment.
+AGENT: Your appointment is set for Thursday, June 25th.
+PATIENT: Thank you, I appreciate it.
+AGENT: 3 p.m.
+AGENT: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have.
+AGENT: Is there anything else I can help with?
+PATIENT: No, that’s all I needed. Thanks so much for your help. Goodbye.
+AGENT: you're all set for your visit.
+AGENT: Take care.
+PATIENT: Goodbye, take care.
+AGENT: Namaste.

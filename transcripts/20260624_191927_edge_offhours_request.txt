@@ -1,0 +1,35 @@
+# scenario: edge_offhours_request   call_sid: CAcb50aa50a6957688878d57e2db71b29f
+
+AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+PATIENT: Hi, yeah, I’m calling to book an appointment for this Sunday at 10 a.m. Could you help me with that?
+AGENT: Thank you
+PATIENT: Sure, I'd be happy to help. Could I get your full name and date of birth, please?
+PATIENT: My first name is Jordan.
+AGENT: I actually need your first and last name to create a demo patient profile.
+AGENT: What is your first name?
+AGENT: Thanks, Jordan.
+AGENT: What is your last name?
+PATIENT: My last name is Miller.
+AGENT: Your patient profile is set up.
+AGENT: and your date of birth is July 4, 2000 for demo purposes.
+AGENT: How may I help you today?
+PATIENT: Actually, my date of birth is March 14, 1992. I’m looking to book that appointment for Sunday at 10 a.m. Are there any openings?
+AGENT: I can help with that.
+AGENT: May I ask what type of appointment you need?
+AGENT: For example, is this a general office visit?
+AGENT: a follow-up or something else.
+PATIENT: It’s a general office visit. I’d really like to get that Sunday 10 a.m. spot if it’s available.
+AGENT: Let me check for openings on Sunday at 10 a.m. for a general office visit.
+AGENT: One moment.
+AGENT: It looks like you already have a general office visit booked.
+AGENT: I can't schedule another of the same type right now.
+AGENT: Would you like to reschedule or cancel your existing appointment?
+AGENT: Or do you want to speak with someone from the office for more help?
+PATIENT: I’m not aware of any existing appointment. Could you double-check that? I'm really trying to book a new appointment for Sunday at 10 a.m.
+AGENT: It still shows you already have a general office visit booked, so I can't schedule another of the same type.
+AGENT: Would you like to speak with someone from the office to sort this out?
+AGENT: I can connect you now.
+PATIENT: Actually, are you sure there’s an appointment booked? I don’t recall that. Could you confirm if there’s availability for Sunday at 10 a.m. or not?
+AGENT: I'm unable to check for new openings because the system says you already have a general office visit booked. To confirm details or resolve this, I can connect you with someone from the office right now.
+AGENT: Would you like me to do that?
+PATIENT: All right, let’s go ahead and connect me with someone from the office then. That would help.

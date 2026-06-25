@@ -1,0 +1,33 @@
+# scenario: location_question   call_sid: CAea888bceea983aae115cd2eb8576c794
+
+PATIENT: Hi there! I'm calling because I need the office address and to find out where I can park.
+AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+AGENT: Thank you.
+PATIENT: Of course, I'd be happy to help. Could you let me know which medical office you're trying to reach so I can provide the correct address and parking information?
+AGENT: Hello.
+PATIENT: Hi! Can you tell me which medical office you're calling about, so I can give you the right address and parking details?
+AGENT: I'm here to help with general clinic support, but I don't have details about specific medical offices or parking.
+PATIENT: Yes,
+AGENT: If you need the clinic's address, I can provide that.
+AGENT: Would you like the address for this location?
+PATIENT: Yes, please, that would be great. I just need the address and where I can park when I get there.
+PATIENT: Great,
+AGENT: I can give you the full clinic address.
+AGENT: I'm not able to provide parking or navigation details, but here's the address.
+AGENT: Please note, I don't have the specific address on file.
+PATIENT: I understand.
+AGENT: If you need the address for a particular clinic, let me know the clinic name or any details you have.
+PATIENT: Sure.
+AGENT: and I'll do my best to help.
+AGENT: Could you tell me the name of the clinic or provider you're visiting?
+PATIENT: I’m actually not sure of the exact name, but it's the general family practice on Maple Avenue. I need that address and to know where I can park nearby.
+AGENT: I can provide the full address for the family practice on Maple Avenue, however I'm not able to give parking or navigation details.
+AGENT: Would you like me to show the others now?
+PATIENT: Yes, please show me the address for the family practice on Maple Avenue. That’ll help a lot.
+AGENT: I'm sorry, but...
+AGENT: I don't have the specific address for the family practice on Maple Avenue.
+AGENT: If you have any more details, like the provider's name or suite number, I can try to help further.
+AGENT: For parking information, I recommend checking with the clinic directly when you arrive.
+PATIENT: I understand. I’ll call back later when I have more details. Thanks for your time. Goodbye.
+PATIENT: You too. Goodbye.
+AGENT: Take care and have a great day.

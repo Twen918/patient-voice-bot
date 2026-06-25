@@ -1,0 +1,198 @@
+{
+  "scenario": "edge_interruptions",
+  "call_sid": "CAa3df7a35b271dd89a28b4b65b05c4688",
+  "turns": [
+    {
+      "speaker": "PATIENT",
+      "text": "Hi there! I'm calling to schedule an appointment, but I might need to switch the day. Could you help me find a good time?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Thank you"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Of course, I can help with that. Could you let me know what kind of appointment you\u2019re looking to schedule, and do you have any preferred days or times in mind?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Before we get started, would you like to create a demo patient profile?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, my name is Jordan Miller."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I just need your first and last name."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Your patient profile is set up."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "And your date of birth is July 4, 2000 for demo purposes."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "How may I help you today?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I\u2019m trying to book an appointment, maybe for Wednesday\u2014wait, no, actually, maybe Thursday would work better. Let\u2019s find a good time."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "It\u2019s a general check"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "What type of appointment do you need?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "For example."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Is this a routine visit?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "A follow-up?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "something urgent?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "or a procedure."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "It\u2019s more of a routine visit, just a general check-up. But I might need to follow up on something from last time, too."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "I\u2019m open to any available provider. Let\u2019s see what times are open on Thursday."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Do you have a preferred provider or are you open to seeing any available provider?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Oh,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "It looks like you already have a routine visit and general check-up appointment booked."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "You know what,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "If you want, I can help you reschedule or cancel that appointment."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you like to do that?"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "or do you need help with something else?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually, let\u2019s reschedule that appointment to Thursday instead\u2014wait, no, hang on, maybe Friday would be better. Could we check Friday\u2019s availability?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Oh, I see."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Since you already have this type of appointment booked, I can't check new times directly."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "That sounds good,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "I can connect you to live support to help reschedule your appointment for Friday."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Yes, please go ahead and transfer me. Thank you."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Would you like me to transfer you now?"
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Oh, wait,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Something's not right."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "No problem,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "and having trouble booking your appointment."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Actually,"
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Let me document this for our clinic support team so they can follow up with you."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Sure, I'll hold."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Please hold on a moment."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "connecting you to a representative."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Please wait."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "All right, I\u2019ll wait. Thanks."
+    },
+    {
+      "speaker": "PATIENT",
+      "text": "Oh, okay. Thanks anyway. Goodbye."
+    },
+    {
+      "speaker": "AGENT",
+      "text": "Hello, you've reached the pretty good AI test line. Goodbye."
+    }
+  ]
+}

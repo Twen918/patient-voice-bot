@@ -1,0 +1,32 @@
+# scenario: office_hours   call_sid: CA1c4943623663b14c69fc708bbc3cd670
+
+PATIENT: Hi there! I'm calling to ask about your office hours this week and if you're open on Saturday.
+AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+PATIENT: Great, thanks
+AGENT: I can help with that.
+PATIENT: Sure,
+AGENT: Could you please provide your first and last name to create a demo patient profile?
+PATIENT: My name is Jordan Miller.
+AGENT: This will let me share more details about our office hours.
+AGENT: Your patient profile is set up.
+PATIENT: Actually,
+AGENT: and your date of birth is July 4th.
+PATIENT: Oh,
+AGENT: 2,000.
+PATIENT: Actually, my
+AGENT: for demo purposes.
+AGENT: Pivot Point Orthopedics is open Monday through Friday.
+PATIENT: Got it.
+AGENT: Our hours are 9 a.m. to 4 p.m. on Monday, Tuesday, and Thursday.
+PATIENT: Thanks for that. And what about
+AGENT: 12 p.m.. To 7 p.m.. On Wednesday
+PATIENT: Alright,
+AGENT: 9 a.m. to 12 p.m. on Friday.
+PATIENT: Oh, I see. Thanks for letting me know.
+AGENT: We are closed on Saturdays.
+PATIENT: No, that covers it. Thanks for your help. Goodbye.
+AGENT: Is there anything else I can help you with today?
+AGENT: You're welcome.
+AGENT: Have a great day.
+PATIENT: Goodbye. Take care.
+AGENT: Goodbye
