@@ -67,26 +67,34 @@ async def media_stream(twilio_ws: WebSocket):
     url = f"wss://api.openai.com/v1/realtime?model={REALTIME_MODEL}"
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
-        # If you are on a newer Realtime build and this errors, remove this header.
-        "OpenAI-Beta": "realtime=v1",
     }
 
     # NOTE: older `websockets` versions use extra_headers= instead of additional_headers=
     async with websockets.connect(url, additional_headers=headers) as openai_ws:
-        # Configure the session. Twilio media is 8kHz g711_ulaw, so we ask OpenAI
-        # to read and write that same format. server_vad = let the model decide
-        # when a turn ends (natural turn-taking). input_audio_transcription lets us
-        # capture the AGENT's words too, for the transcript.
+        # Configure the session (OpenAI Realtime GA shape). Twilio media is 8kHz
+        # G.711 u-law, which the GA API calls "audio/pcmu". server_vad lets the
+        # model decide when a turn ends (natural turn-taking).
         await openai_ws.send(json.dumps({
             "type": "session.update",
             "session": {
-                "turn_detection": {"type": "server_vad"},
-                "input_audio_format": "g711_ulaw",
-                "output_audio_format": "g711_ulaw",
-                "voice": VOICE,
+                "type": "realtime",
+                "model": REALTIME_MODEL,
+                "output_modalities": ["audio"],
+                "audio": {
+                    "input": {
+                        "format": {"type": "audio/pcmu"},
+                        "turn_detection": {"type": "server_vad"},
+                        # Captures the AGENT's words for the live transcript.
+                        # If you ever get an invalid_request error that mentions
+                        # "transcription", delete the next line and rerun.
+                        "transcription": {"model": "whisper-1"},
+                    },
+                    "output": {
+                        "format": {"type": "audio/pcmu"},
+                        "voice": VOICE,
+                    },
+                },
                 "instructions": instructions,
-                "modalities": ["audio", "text"],
-                "input_audio_transcription": {"model": "whisper-1"},
             },
         }))
         # We intentionally do NOT trigger a first response: the PGAI agent greets
@@ -165,11 +173,11 @@ async def media_stream(twilio_ws: WebSocket):
 def _save_transcript(scenario_key, call_sid, transcript):
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     base = TRANSCRIPTS_DIR / f"{ts}_{scenario_key}"
-    with open(f"{base}.txt", "w") as f:
+    with open(f"{base}.txt", "w", encoding="utf-8") as f:
         f.write(f"# scenario: {scenario_key}   call_sid: {call_sid}\n\n")
         for speaker, text in transcript:
             f.write(f"{speaker}: {text}\n")
-    with open(f"{base}.json", "w") as f:
+    with open(f"{base}.json", "w", encoding="utf-8") as f:
         json.dump(
             {
                 "scenario": scenario_key,

@@ -61,7 +61,7 @@ def main():
         twiml=twiml,
         record=True,
         recording_channels="dual",  # separate channels for agent vs patient
-        time_limit=240,             # hard stop so a call can never run away
+        time_limit=150,             # hard stop so a call can never run away
     )
     print(f"Call placed: {call.sid}")
     print(f"  scenario = {args.scenario}")
