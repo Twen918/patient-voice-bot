@@ -16,8 +16,16 @@ into the call. Server-side voice-activity detection handles turn-taking, so the
 patient waits for the agent's greeting and responds naturally.
 
 Each call's both-sides transcript is written to `transcripts/`, and Twilio
-records the audio (downloaded as mp3 by `fetch_recordings.py`). The persona and
-per-call goals live in `scenarios.py`, so adding a new test case is one line.
+records the audio (downloaded as mp3 by `fetch_recordings.py`, then renamed and
+matched back to its scenario by Call SID with `organize_recordings.py`). The
+persona and per-call goals live in `scenarios.py`, so adding a new test case is
+one line. `ARCHITECTURE.md` has the full design write-up.
+
+The findings from running this against the test line are in `BUG_REPORT.md`: 11
+calls across 10 scenarios surfaced fabricated patient data (a made-up date of
+birth on every call, a phantom phone number on refills), a false "appointment
+already booked" state that blocks scheduling, stalled loops, and unvalidated
+off-hours requests — each citing the transcript where it occurs.
 
 **Why this stack:** a single speech-to-speech model (Realtime API) gives the
 lowest-latency, most natural conversation, which is the primary grading
@@ -30,10 +38,13 @@ number from code.
 |------|---------|
 | `server.py` | Twilio ↔ OpenAI Realtime audio bridge + transcript logging |
 | `make_call.py` | Places one outbound call for a chosen scenario |
-| `scenarios.py` | The patient persona and the goal for each test scenario |
+| `scenarios.py` | The patient persona and the goal for each of the 10 test scenarios |
 | `fetch_recordings.py` | Downloads Twilio call recordings as mp3 |
-| `transcripts/` | Saved `.txt` + `.json` transcripts (deliverable) |
-| `recordings/` | Saved `.mp3` call recordings (deliverable) |
+| `organize_recordings.py` | Renames each mp3 and matches it to its scenario by Call SID, writing `recordings/INDEX.md` |
+| `BUG_REPORT.md` | The findings — 11 bugs ranked by severity, each citing a transcript (deliverable) |
+| `ARCHITECTURE.md` | How the audio bridge works and why this stack (deliverable) |
+| `transcripts/` | Saved `.txt` + `.json` transcripts, one per call (deliverable) |
+| `recordings/` | Saved `.mp3` recordings + `INDEX.md` mapping each to a scenario (deliverable) |
 
 ## Setup
 
@@ -63,14 +74,19 @@ uvicorn server:app --port 6060
 # 2) expose it publicly, then copy the host into .env as PUBLIC_HOST
 ngrok http 6060          # e.g. PUBLIC_HOST=abc123.ngrok-free.app
 
-# 3) place a call
+# 3) place a call (any scenario key from scenarios.py)
 python make_call.py schedule_basic
 ```
 
-Watch terminal 1 for the live transcript. After a few calls:
+The 10 scenario keys are `schedule_basic`, `reschedule`, `cancel`,
+`refill_request`, `office_hours`, `insurance_question`, `location_question`,
+`edge_vague`, `edge_interruptions`, and `edge_offhours_request`.
+
+Watch terminal 1 for the live transcript. After a batch of calls:
 
 ```bash
-python fetch_recordings.py     # pull mp3s into recordings/
+python fetch_recordings.py       # pull mp3s into recordings/
+python organize_recordings.py    # rename + match each mp3 to its scenario (writes INDEX.md)
 ```
 
 > **Rehearse first.** Before calling the real test line, run
